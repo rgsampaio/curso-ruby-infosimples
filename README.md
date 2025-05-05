@@ -1,25 +1,10 @@
-# Preparando seu ambiente de estudos
+# Prática em Ruby – Curso Infosimples
 
-Vamos assumir que o diretório onde você vai manter seus arquivos de estudos será
-`~/ep`.
+Este repositório contém os exercícios práticos desenvolvidos durante o curso de Ruby oferecido pela Infosimples, com foco no aprendizado progressivo da linguagem Ruby e sua aplicação em tarefas de web scraping.
 
-## 1. Clone o repositório da CLI do Estágio em Programação
+## 📚 Conteúdo
+Módulo 3: Fundamentos da linguagem Ruby — sintaxe básica, variáveis e ferramentas úteis.
 
-A CLI (Command Line Interface) do Estágio em Programação será usada para
-inicializar a sua pasta de estudos:
+Módulo 4: Arrays, hashes, classes, POO e boas práticas na escrita de código Ruby.
 
-```bash
-git clone https://github.com/infosimples/estagio-em-programacao-cli.git ~/ep
-```
-
-## 2. Prepare o ambiente Docker
-
-Instale Docker: https://docs.docker.com/install/
-
-Prepare seu ambiente:
-
-```bash
-cd ~/ep
-docker build -t ep . #build/cria o container
-
-```
+Módulo 15: Aplicações práticas de web scraping.
